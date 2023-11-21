@@ -2,5 +2,5 @@
 
 ## Hi there 👋
 
-1. 👨‍💼: I am working as a **CSM Team Lead**
-2. 🎮: Interested in everything **Gaming**
+1. 👨‍💼 I am working as a **CSM Team Lead**
+2. 🎮 Interested in everything **Gaming**
